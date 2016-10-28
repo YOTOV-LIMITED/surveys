@@ -1,0 +1,6 @@
+{
+  "name": "Surveys",
+  "tagline": "",
+  "body": "# Introduction\r\n\r\nThis GitHub repository contains code samples for the Google Surveys API, built by the Surveys team @ Google. Please note that this repository is not officially supported by Google.\r\n\r\nThe Google Surveys team will do their best to keep the this repository up-to-date as the API evolves, but it's possible that at any given point the code stops working. For this reason please treat the code as illustrative only. Should you want to launch a production-quality service on the API please use the REST end-points directly.\r\n\r\nFor more information on the Google Suverys API, check out the [Google Surveys API developer site](https://developers.google.com/surveys/).\r\n\r\n-----\r\n\r\n# Contents\r\n\r\n- `client_libraries-DEPRECATED`: C#, Java, and Python client libraries that are\r\n  deprecated and no longer maintained. Preserved here for archival purposes.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
